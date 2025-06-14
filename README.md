@@ -29,6 +29,36 @@
 | Offline Storage| Capacitor Filesystem |
 | CI/CD          | GitHub Actions |
 
+## 📅 Project Roadmap
+**Phase 1 (In progress)**
+Core map functionality
+
+Basic crowd reporting
+
+**Phase 2 (In Progress)**
+Offline map downloads
+
+Reward system integration
+
+Future Plans
+AR navigation mode
+
+Accessibility features
+
+## 🤝 How to Contribute
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some feature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📧 Contact
+Project Lead: Your Name - https://github.com/Tomikaze1
+
 ## 📦 Installation
 
 ```bash
@@ -40,4 +70,5 @@ cd festivalpath
 npm install
 
 # Run development server
-ionic serve
+ionic serve 
+
