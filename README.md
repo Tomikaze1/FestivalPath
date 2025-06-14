@@ -57,7 +57,7 @@ Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 📧 Contact
-Project Lead: Your Name - https://github.com/Tomikaze1
+Project Lead: Tomi - https://github.com/Tomikaze1
 
 ## 📦 Installation
 
