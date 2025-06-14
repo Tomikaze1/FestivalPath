@@ -1,7 +1,7 @@
-#🎪 FestivalPath: Your Pedestrian Lifeline at Festivals
+🎪 FestivalPath: Your Pedestrian Lifeline at Festivals
 FestivalPath is a revolutionary navigation app designed for vehicle-free events, solving the chaos of crowded festivals where traditional maps fail. No more circling blocked streets or missing performances—just smart, crowd-verified walking routes to your destination.
 
-#🎯 Purpose
+🎯 Purpose
 Festivals are nightmares for pedestrians:
 
 Google Maps directs you through car roads that are closed
@@ -15,17 +15,17 @@ FestivalPath fixes this by:
 ✔ Crowdsourcing real-time shortcuts from experienced attendees
 ✔ Using landmarks ("Turn left at the taco stand") for no-signal areas
 
-#🌟 Vision
+🌟 Vision
 "To transform chaotic festival experiences into seamless adventures through collective navigation intelligence."
 
-#🎯 Mission
+🎯 Mission
 Tourists: Deliver reliable pedestrian routes tailored to event layouts
 
 Event Organizers: Reduce crowd bottlenecks with smart traffic flow
 
 Locals: Monetize their insider knowledge by contributing shortcuts
 
-#🛠️ Features
+🛠️ Features
 📱 Tourist Side
 🗺️ Offline Festival Maps: Pre-download event layouts with official walking paths
 
@@ -35,12 +35,12 @@ Locals: Monetize their insider knowledge by contributing shortcuts
 
 🔥 Heatmap Alerts: Avoid overcrowded zones in real-time
 
-#🎪 Organizer Side
+🎪 Organizer Side
 📊 Crowd Analytics: See pinch points to improve future layouts
 
 📢 Emergency Alerts: Broadcast route changes (e.g., "Main gate closed—use Gate B")
 
-#🏗️ Project Roadmap
+🏗️ Project Roadmap
 Phase 1 (MVP – 2 Months)
 Core festival maps with official paths (Mapbox)
 
@@ -60,7 +60,7 @@ AR arrow overlays (optional)
 
 Sponsor partnerships ("Rest area ahead – free water from [Brand]")
 
-#🔐 Security & Privacy
+🔐 Security & Privacy
 📍 Location Data: Anonymous by default; opt-in to share
 
 📸 Photos: Moderated before public posting
@@ -103,16 +103,19 @@ updateCrowdDensity(zoneId: string, density: 'low'|'high') {
     .doc(zoneId)
     .update({ density, updatedAt: new Date() });
 }
-#🤝 Contribution & Contact
+🤝 Contribution & Contact
 Open to collaborations with:
 
 Event organizers (test at real festivals!)
 
 UI/UX designers (Figma files available)
 
-#📧 Reach us:
+📧 Reach us:
 
-GitHub: [[your-repo]](https://github.com/Tomikaze1/FestivalPath.git)
+GitHub: [your-repo]
 
-#🎡 Why FestivalPath?
+Twitter: @FestivalPathApp
+
+🎡 Why FestivalPath?
 *"At Coachella 2023, 72% of attendees wasted 15+ mins daily in avoidable lines. FestivalPath cuts that to <5 mins."*
+
